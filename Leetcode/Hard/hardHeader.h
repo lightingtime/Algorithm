@@ -1,0 +1,8 @@
+//
+// Created by hcy19 on 2018/3/28.
+//
+
+#ifndef ALGORITHM_HARDHEADER_H
+#define ALGORITHM_HARDHEADER_H
+
+#endif //ALGORITHM_HARDHEADER_H
