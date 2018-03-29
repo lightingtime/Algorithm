@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-    printa();
+
     return 0;
 }
