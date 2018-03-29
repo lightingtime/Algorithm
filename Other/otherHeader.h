@@ -1,0 +1,8 @@
+//
+// Created by hcy19 on 2018/3/29.
+//
+
+#ifndef ALGORITHM_OTHERHEADER_H
+#define ALGORITHM_OTHERHEADER_H
+
+#endif //ALGORITHM_OTHERHEADER_H
