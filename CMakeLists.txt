@@ -6,5 +6,5 @@ SET(CMAKE_CXX_STANDARD 17)
 
 AUX_SOURCE_DIRECTORY(. SRC_LIST)
 ADD_SUBDIRECTORY(Leetcode)
-ADD_EXECUTABLE(${MY_TARGET} ${SRC_LIST} ${Easy_LIB_SRCS} ${Medium_LIB_SRCS} Leetcode/Medium/mediumHeader.h)
+ADD_EXECUTABLE(${MY_TARGET} ${SRC_LIST} ${Easy_LIB_SRCS} ${Medium_LIB_SRCS} Leetcode/Medium/mediumHeader.h Leetcode/Medium/convert.cpp Leetcode/Medium/myAtoi.cpp)
 TARGET_LINK_LIBRARIES(${MY_TARGET} )

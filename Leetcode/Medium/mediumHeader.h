@@ -8,4 +8,5 @@
 #include <iostream>
 using namespace std;
 int lengthOfLongestSubstring(string s);
+int myAtoi(string str);
 #endif //ALGORITHM_MEDIUMHEADER_H
