@@ -12,4 +12,5 @@ using namespace std;
 int lengthOfLongestSubstring(string s);
 int myAtoi(string str);
 int maxArea(vector<int> &height);
+int threeSumClosest(vector<int>& nums, int target);
 #endif //ALGORITHM_MEDIUMHEADER_H
