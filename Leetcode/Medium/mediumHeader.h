@@ -9,8 +9,17 @@
 #include <vector>
 
 using namespace std;
+
+struct ListNode {
+    int val;
+    ListNode *next;
+
+    ListNode(int x) : val(x), next(NULL) {}
+};
 int lengthOfLongestSubstring(string s);
 int myAtoi(string str);
 int maxArea(vector<int> &height);
 int threeSumClosest(vector<int>& nums, int target);
+vector<string> generateParenthesis(int n);
+ListNode* swapPairs(ListNode* head);
 #endif //ALGORITHM_MEDIUMHEADER_H
