@@ -19,4 +19,5 @@ int strStr(string haystack,string needle);
 int searchInsert(vector<int>& nums, int target);
 string countAndSay(int n);
 void printa();
+int lengthofLastWord(string s);
 #endif //ALGORITHM_EASYHEADER_H
