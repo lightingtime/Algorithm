@@ -43,3 +43,7 @@ int lengthOfLastWord(string s) {
 //    }
 //    return len;
 //}
+//cout<<lengthofLastWord("Hello World")<<endl;
+//cout<<lengthofLastWord("    day ")<<endl;
+//cout<<lengthofLastWord("    day")<<endl;
+//cout<<lengthofLastWord("a ")<<endl;
