@@ -20,4 +20,5 @@ int searchInsert(vector<int>& nums, int target);
 string countAndSay(int n);
 void printa();
 int lengthofLastWord(string s);
+vector<int> plusOne(vector<int>& digits);
 #endif //ALGORITHM_EASYHEADER_H
