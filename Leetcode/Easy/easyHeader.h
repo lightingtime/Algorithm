@@ -10,6 +10,8 @@ using namespace std;
 #include <string>
 #include <clocale>
 #include <iostream>
+#include <cmath>
+#include <algorithm>
 int reverse(int x);//1
 bool isPalindrome(int x);//2
 int romanToInt(string s);//3
@@ -21,4 +23,5 @@ string countAndSay(int n);
 void printa();
 int lengthofLastWord(string s);
 vector<int> plusOne(vector<int>& digits);
+string addBinary(string a,string b);
 #endif //ALGORITHM_EASYHEADER_H
