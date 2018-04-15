@@ -23,4 +23,5 @@ int maxArea(vector<int> &height);
 int threeSumClosest(vector<int>& nums, int target);
 vector<string> generateParenthesis(int n);
 ListNode* swapPairs(ListNode* head);
+string multiply(string num1,string num2);
 #endif //ALGORITHM_MEDIUMHEADER_H
