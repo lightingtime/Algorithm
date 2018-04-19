@@ -24,4 +24,5 @@ int threeSumClosest(vector<int>& nums, int target);
 vector<string> generateParenthesis(int n);
 ListNode* swapPairs(ListNode* head);
 string multiply(string num1,string num2);
+ListNode* deleteDuplicatates2(ListNode* head);
 #endif //ALGORITHM_MEDIUMHEADER_H
