@@ -2,7 +2,8 @@
 // Created by HCY on 2018/4/21.
 //
 
-#include "easyHeader.h"
+#include "easyHeader.h"jd
+
 
 bool isSameTree(TreeNode* p,TreeNode *q) {
     if(!p && !q)    return true;
