@@ -1,10 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <vector>
-#include <iostream>
 
-using namespace std;
+#include "easyHeader.h"
 
 int removeDuplicates(vector<int> &nums) {
     for (int i = 1; i < nums.size(); ++i) {

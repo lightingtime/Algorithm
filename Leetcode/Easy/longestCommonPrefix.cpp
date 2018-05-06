@@ -1,10 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <iostream>
-#include <vector>
 
-using namespace std;
+#include "easyHeader.h"
 
 string longestCommonPrefix(vector<string> &strs) {
     if (strs.size() == 0) return "";

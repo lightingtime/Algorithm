@@ -2,7 +2,6 @@
 // Created by HCY on 2018/4/12.
 //
 
-#include <algorithm>
 #include "easyHeader.h"
 
 vector<int> plusOne(vector<int>& digits) {

@@ -2,8 +2,7 @@
 // Created by hcy19 on 2018/3/28.
 //
 
-#include <iostream>
-using namespace std;
+#include "easyHeader.h"
 
 int romanToInt(string s) {
     int j = 0;

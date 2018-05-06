@@ -1,8 +1,9 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <vector>
-using namespace std;
+
+#include "easyHeader.h"
+
 int searchInsert(vector<int>& nums, int target) {
     int k;
     for (int i = 0; i < nums.size(); ++i)

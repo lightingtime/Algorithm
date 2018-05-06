@@ -1,8 +1,9 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <iostream>
-using  namespace std;
+
+#include "easyHeader.h"
+
 int reverse(int x){
     if (x == INT_MIN) {
         return 0;

@@ -2,7 +2,6 @@
 // Created by HCY on 2018/4/13.
 //
 
-
 #include "easyHeader.h"
 
 string addBinary(string a, string b) {

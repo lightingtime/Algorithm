@@ -1,13 +1,7 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <clocale>
-struct ListNode {
-    int val;
-    ListNode *next;
-
-    ListNode(int x) : val(x), next(NULL) {}
-};
+#include "easyHeader.h"
 
 ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {
     if (NULL == l1) return l2;

@@ -1,11 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <stdio.h>
-#include <iostream>
-#include <vector>
 
-using namespace std;
+#include "easyHeader.h"
 
 vector<int> twoSum(vector<int> &nums, int target) {
     vector<int> x;

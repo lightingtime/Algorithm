@@ -1,9 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <iostream>
-#include <vector>
-using namespace std;
+
+#include "easyHeader.h"
 
 bool isValid(string s) {
     vector<int>nums;

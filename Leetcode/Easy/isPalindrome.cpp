@@ -1,10 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <iostream>
-#include <math.h>
+
 #include "easyHeader.h"
-using namespace std;
 
 bool isPalindrome(int x) {
     int n = 0;

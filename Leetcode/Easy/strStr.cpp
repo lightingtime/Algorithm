@@ -1,9 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <String>
 
-using namespace std;
+#include "easyHeader.h"
 
 int strStr(string haystack, string needle) {
     int k = 0;

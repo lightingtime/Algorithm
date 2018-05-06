@@ -1,8 +1,8 @@
 //
 // Created by hcy19 on 2018/3/28.
 //
-#include <string>
-using namespace std;
+
+#include "easyHeader.h"
 
 string countAndSay(int n) {
     if (n == 0) { return ""; }
