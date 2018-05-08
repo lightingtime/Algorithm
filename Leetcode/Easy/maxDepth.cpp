@@ -4,8 +4,6 @@
 
 #include "easyHeader.h"
 
-int height(TreeNode *pNode);
-
 int maxDepth(TreeNode* root) {
     if (!root) {
         return 0;
