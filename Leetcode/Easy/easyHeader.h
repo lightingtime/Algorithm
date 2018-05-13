@@ -45,4 +45,5 @@ vector<int> plusOne(vector<int> &digits);
 string addBinary(string a, string b);
 bool isSameTree(TreeNode* p,TreeNode* q);
 int maxDepth(TreeNode* p);
+int maxProfit(vector<int>& prices);
 #endif //ALGORITHM_EASYHEADER_H
